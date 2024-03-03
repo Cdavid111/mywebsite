@@ -93,6 +93,7 @@ module.exports = {
         "primary": "#101010",
         "secondary": "#1a1a1a",
         "tertiary": "#262626",
+        "bgyoutube" : "#ff0000",
         // Purple
         //primary:"#080118",
         //secondary:"#140d23",
